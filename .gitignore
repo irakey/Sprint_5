@@ -1,0 +1,48 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Caches and logs
+*.log
+*.cache
+.cache/
+
+# Virtual Environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+
+# pytest cache and report files
+.pytest_cache/
+htmlcov/
+*.html
+*.xml
+
+# Selenium WebDriver binaries (optional, if stored locally)
+chromedriver
+chromedriver.exe
+geckodriver
+geckodriver.exe
+
+# Environment variables and secrets
+.env
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
+
+# PyCharm project files (if using PyCharm)
+.idea/
+*.iml
+
+# Jupyter Notebook checkpoints (if any notebooks are used)
+.ipynb_checkpoints/
+
+# Reports and temporary test files
+reports/
+*.tmp
+*.temp
