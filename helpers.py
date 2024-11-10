@@ -1,8 +1,6 @@
-import pytest
 import random
 
 
-@pytest.fixture
 def generate_custom_email():
     first_name = "irina"
     last_name = "kurbanova"
